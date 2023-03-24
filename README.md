@@ -32,10 +32,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabisnotokay}/count.svg" /></p> 
 <br>
 </div>
-
-<center>
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  </center>
+
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FB96BE&height=120&section=footer"/>
